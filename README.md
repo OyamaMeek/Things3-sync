@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **34** · 已完成 **54** · 已取消 **17**
+未完成 **35** · 已完成 **55** · 已取消 **17**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -9,8 +9,10 @@
 
 ## 未完成任务
 
-### 领域：Happa（12）
+### 领域：Happa（14）
 
+- [ ] [surge配置文件](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
+- [ ] [GCP](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [OVH](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [WLOC](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [quanx规则](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
@@ -54,14 +56,11 @@
 - [ ] [电磁炉](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [ymy有回家的风险吗](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 
-### 收件箱（1）
-
-- [ ] [git工具](Inbox.md)
-
 ## 最近完成
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [喜茶18058175226](%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-02 16:26:28
 - [x] [重装HappaVM](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-30 19:37:55 · Happa
 - [x] [洗小八洗包洗鸡腿](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-30 11:56:29 · 日常
 - [x] [Things3-push](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-30 11:46:27 · dev
@@ -81,4 +80,3 @@
 - [x] [书架](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-25 11:48:56 · 日常
 - [x] [蹲坑把手](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-24 14:03:50 · 日常
 - [x] [吉伊的小熊](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-20 14:16:08 · 日常
-- [x] [14:30培训B312](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-19 21:35:46 · Hziee

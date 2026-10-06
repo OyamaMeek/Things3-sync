@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **33** · 已完成 **57** · 已取消 **17**
+未完成 **32** · 已完成 **58** · 已取消 **17**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -25,9 +25,8 @@
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（3）
+### 领域：Hziee（2）
 
-- [ ] [电瓶车](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [羽毛球拍](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
@@ -58,6 +57,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [电瓶车](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-06 13:06:27 · Hziee
 - [x] [YXYtools](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-04 19:22:25 · dev
 - [x] [GCP](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-03 15:40:34 · Happa
 - [x] [喜茶18058175226](%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-02 16:26:28
@@ -77,4 +77,3 @@
 - [x] [烧水瓶](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-25 11:49:01 · 日常
 - [x] [把todolist用过的纸拿出来](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-25 11:49:00 · 日常
 - [x] [车线本](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-25 11:48:59 · 日常
-- [x] [书架](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-25 11:48:56 · 日常

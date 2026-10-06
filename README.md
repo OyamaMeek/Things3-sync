@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **33** · 已完成 **58** · 已取消 **17**
+未完成 **34** · 已完成 **58** · 已取消 **17**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -30,8 +30,9 @@
 - [ ] [羽毛球拍](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
-### 领域：dev（7）
+### 领域：dev（8）
 
+- [ ] [trending 热榜推送](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [QQ拦截撤回](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [xui流量统计or网卡监控（探针](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [agent对话清理](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)

@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **31** · 已完成 **64** · 已取消 **17**
+未完成 **32** · 已完成 **64** · 已取消 **17**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -51,6 +51,10 @@
 - [ ] [冰箱](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [电磁炉](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [ymy有回家的风险吗](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+
+### 某天（1）
+
+- [ ] [喜茶18958037289](Someday.md) · 开始 2026-10-11
 
 ## 最近完成
 

@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **30** · 已完成 **63** · 已取消 **17**
+未完成 **32** · 已完成 **63** · 已取消 **17**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -25,8 +25,9 @@
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（1）
+### 领域：Hziee（2）
 
+- [ ] [星期一10:05去409-411找吴昊审批](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
 ### 领域：dev（8）
@@ -40,8 +41,9 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（8）
+### 领域：日常（9）
 
+- [ ] [洗保温杯](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [洗手液](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [柴犬](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [厕纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)

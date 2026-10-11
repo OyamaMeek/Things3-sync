@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **32** · 已完成 **64** · 已取消 **17**
+未完成 **30** · 已完成 **67** · 已取消 **17**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -40,12 +40,10 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（9）
+### 领域：日常（7）
 
-- [ ] [洗保温杯](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+- [ ] [电瓶车充电](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [洗手液](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [柴犬](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [厕纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [坐垫](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [大疆4G模块](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [冰箱](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
@@ -60,6 +58,9 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [厕纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 12:37:59 · 日常
+- [x] [柴犬](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 12:37:58 · 日常
+- [x] [洗保温杯](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 12:37:57 · 日常
 - [x] [surge配置文件](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-10 23:33:44 · Happa
 - [x] [A4纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 23:06:08 · 日常
 - [x] [柜子隔板](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 21:44:55 · 日常
@@ -77,6 +78,3 @@
 - [x] [touch READEME.md](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-30 11:46:22 · dev
 - [x] [工科数学分析上](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-29 14:16:15 · 日常
 - [x] [鞋子](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-28 17:52:36 · 日常
-- [x] [洗面奶](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-28 17:52:36 · 日常
-- [x] [擦脚布](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-27 20:14:05 · 日常
-- [x] [路由器](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-09-27 20:11:19 · 日常

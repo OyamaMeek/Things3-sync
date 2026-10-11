@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **28** · 已完成 **69** · 已取消 **18**
+未完成 **28** · 已完成 **69** · 已取消 **19**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -9,12 +9,11 @@
 
 ## 未完成任务
 
-### 领域：Happa（10）
+### 领域：Happa（9）
 
 - [ ] [OVH](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [WLOC](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [quanx规则](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
-- [ ] [DMIT的自动backup](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [订阅添加域名连接方式-4](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [gcore优选](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [把GCP的中转换到DMIT](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
@@ -22,10 +21,11 @@
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（3）
+### 领域：Hziee（4）
 
 - [ ] [星期一10:05去409-411找吴昊审批](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [数分:习题1.1A  8，16（1，2）习题1.2A 7（1，3）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
+- [ ] [线代:p20作业](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
 ### 领域：dev（8）

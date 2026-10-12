@@ -23,7 +23,7 @@
 
 ### 领域：Hziee（3）
 
-- [ ] [3:10C410开班会](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md) · 开始 2026-10-13
+- [ ] [3:10C410开班会](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md) · 开始 2026-10-14
 - [ ] [数分：看书](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 

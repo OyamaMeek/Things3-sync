@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **26** · 已完成 **75** · 已取消 **20**
+未完成 **28** · 已完成 **75** · 已取消 **20**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
 
@@ -21,8 +21,10 @@
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（4）
+### 领域：Hziee（6）
 
+- [ ] [数分:思考题习题1.2A 6](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
+- [ ] [数分:1.2A 10（1～6）B 2（1～4）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [3:10C410开班会](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md) · 开始 2026-10-14
 - [ ] [html](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [数分：看书](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)

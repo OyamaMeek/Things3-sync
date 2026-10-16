@@ -3,7 +3,7 @@
 
 未完成 **26** · 已完成 **79** · 已取消 **20**
 
-[今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md) · [某天](Someday.md)
+[今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
 随 Things3 同步自动更新；点击任务名称查看详情。
 

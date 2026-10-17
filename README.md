@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **27** · 已完成 **79** · 已取消 **20**
+未完成 **27** · 已完成 **80** · 已取消 **20**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -52,6 +52,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [自动铅笔](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-17 11:52:42 · 日常
 - [x] [数分:思考题习题1.2A 6](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-15 15:10:17 · Hziee
 - [x] [数分:1.2A 10（1～6）B 2（1～4）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-15 11:23:59 · Hziee
 - [x] [3:10C410开班会](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-14 22:47:12 · Hziee
@@ -71,4 +72,3 @@
 - [x] [A4纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 23:06:08 · 日常
 - [x] [柜子隔板](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 21:44:55 · 日常
 - [x] [水](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 21:44:53 · 日常
-- [x] [吹风机](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 21:44:53 · 日常

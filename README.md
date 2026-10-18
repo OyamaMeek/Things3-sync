@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **27** · 已完成 **81** · 已取消 **20**
+未完成 **23** · 已完成 **87** · 已取消 **20**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -9,8 +9,9 @@
 
 ## 未完成任务
 
-### 领域：Happa（8）
+### 领域：Happa（9）
 
+- [ ] [注册N站](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [OVH](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [WLOC](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [quanx规则](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
@@ -20,17 +21,15 @@
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（5）
+### 领域：Hziee（4）
 
 - [ ] [英语：22-24单词](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [线性代数](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [html](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
-- [ ] [数分：看书](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
-### 领域：dev（7）
+### 领域：dev（6）
 
-- [ ] [trending 热榜推送](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [QQ拦截撤回](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [xui流量统计or网卡监控（探针](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [HappaUni](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
@@ -38,12 +37,9 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（7）
+### 领域：日常（4）
 
-- [ ] [谁不想急头白脸地回大学上一下午课到晚八呢我琢磨了半天 我高三过的都比这轻松吧](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [美工刀](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [洗手液](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [坐垫](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+- [ ] [挂钩](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [大疆4G模块](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [冰箱](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [电磁炉](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
@@ -52,6 +48,12 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [trending 热榜推送](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 21:46:46 · dev
+- [x] [数分：看书](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 18:04:48 · Hziee
+- [x] [谁不想急头白脸地回大学上一下午课到晚八呢我琢磨了半天 我高三过的都比这轻松吧](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 11:56:30 · 日常
+- [x] [洗手液](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 09:57:04 · 日常
+- [x] [坐垫](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 09:57:04 · 日常
+- [x] [美工刀](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 09:57:03 · 日常
 - [x] [ymy有回家的风险吗](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-17 17:06:51 · 日常
 - [x] [自动铅笔](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-17 11:52:42 · 日常
 - [x] [数分:思考题习题1.2A 6](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-15 15:10:17 · Hziee
@@ -66,9 +68,3 @@
 - [x] [线代:p20作业](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 23:29:58 · Hziee
 - [x] [api中转站](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 22:25:03 · Happa
 - [x] [电瓶车充电](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 22:24:37 · 日常
-- [x] [厕纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 12:37:59 · 日常
-- [x] [柴犬](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 12:37:58 · 日常
-- [x] [洗保温杯](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 12:37:57 · 日常
-- [x] [surge配置文件](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-10 23:33:44 · Happa
-- [x] [A4纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 23:06:08 · 日常
-- [x] [柜子隔板](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-07 21:44:55 · 日常

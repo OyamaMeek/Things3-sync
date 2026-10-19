@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **22** · 已完成 **92** · 已取消 **20**
+未完成 **24** · 已完成 **92** · 已取消 **20**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -35,9 +35,11 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（5）
+### 领域：日常（7）
 
 - [ ] [reOS](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+- [ ] [表达了作者的思乡之情(请假理由是床单拉链坏了回家修一下](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+- [ ] [那一天 计算小王子遇到天敌](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [挂钩](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [大疆4G模块](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [冰箱](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)

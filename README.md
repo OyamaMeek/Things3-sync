@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **25** · 已完成 **89** · 已取消 **20**
+未完成 **24** · 已完成 **90** · 已取消 **20**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -20,9 +20,8 @@
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（6）
+### 领域：Hziee（5）
 
-- [ ] [数分:1.2A 10（8，9，10）B2（5，6）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [数分:1.3A 12（双数）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [线代:P21 4(1,2,3);5(1)](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [英语：22-24单词](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
@@ -50,6 +49,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [数分:1.2A 10（8，9，10）B2（5，6）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 13:32:52 · Hziee
 - [x] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 11:10:28 · Hziee
 - [x] [注册N站](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 22:00:48 · Happa
 - [x] [trending 热榜推送](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 21:46:46 · dev
@@ -69,4 +69,3 @@
 - [x] [数分:习题1.1A  8，16（1，2）习题1.2A 7（1，3）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-12 13:58:56 · Hziee
 - [x] [去拿电瓶车](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-12 11:38:58 · 日常
 - [x] [星期一10:05去409-411找吴昊审批](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-12 11:38:26 · Hziee
-- [x] [线代:p20作业](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-11 23:29:58 · Hziee

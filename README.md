@@ -39,7 +39,7 @@
 ### 领域：日常（8）
 
 - [ ] [reOS](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [表达了作者的思乡之情(请假理由是床单拉链坏了回家修一下](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+- [ ] [表达了作者的思乡之情(emm...请假理由是床单拉链坏了回家修一下](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [草稿纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [那一天 计算小王子遇到天敌](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [挂钩](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)

@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **26** · 已完成 **93** · 已取消 **21**
+未完成 **25** · 已完成 **94** · 已取消 **21**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -36,10 +36,9 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（8）
+### 领域：日常（7）
 
 - [ ] [reOS](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [表达了作者的思乡之情(emm...请假理由是床单拉链坏了回家修一下](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [草稿纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [那一天 计算小王子遇到天敌](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [挂钩](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
@@ -51,6 +50,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [表达了作者的思乡之情(emm...请假理由是床单拉链坏了回家修一下](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-21 21:40:28 · 日常
 - [x] [数分:习题1.3A 13（单数），14（1，3），15](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-21 18:12:19 · Hziee
 - [x] [线代:P21 4(1,2,3);5(1)](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 23:35:58 · Hziee
 - [x] [数分:1.3A 12（双数）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 14:16:55 · Hziee
@@ -70,4 +70,3 @@
 - [x] [3:10C410开班会](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-14 22:47:12 · Hziee
 - [x] [把GCP的中转换到DMIT](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-14 22:47:07 · Happa
 - [x] [喜茶18058175226](%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-13 21:04:55
-- [x] [喜茶18958037289](%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-13 11:40:58

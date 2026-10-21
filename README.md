@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **26** · 已完成 **92** · 已取消 **21**
+未完成 **26** · 已完成 **93** · 已取消 **21**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -9,8 +9,9 @@
 
 ## 未完成任务
 
-### 领域：Happa（8）
+### 领域：Happa（9）
 
+- [ ] [notion反代](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [Komari探针](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [WLOC](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
@@ -20,9 +21,8 @@
 - [ ] [新增订阅转换后端](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（4）
+### 领域：Hziee（3）
 
-- [ ] [数分:习题1.3A 13（单数），14（1，3），15](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [英语：22-24单词](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [线性代数](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [html](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
@@ -51,6 +51,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [数分:习题1.3A 13（单数），14（1，3），15](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-21 17:34:44 · Hziee
 - [x] [线代:P21 4(1,2,3);5(1)](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 23:35:58 · Hziee
 - [x] [数分:1.3A 12（双数）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 14:16:55 · Hziee
 - [x] [数分:1.2A 10（8，9，10）B2（5，6）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 13:32:52 · Hziee
@@ -70,4 +71,3 @@
 - [x] [把GCP的中转换到DMIT](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-14 22:47:07 · Happa
 - [x] [喜茶18058175226](%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-13 21:04:55
 - [x] [喜茶18958037289](%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-13 11:40:58
-- [x] [数分:习题1.1A  8，16（1，2）习题1.2A 7（1，3）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-12 13:58:56 · Hziee

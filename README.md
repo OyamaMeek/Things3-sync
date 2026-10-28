@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **22** · 已完成 **105** · 已取消 **23**
+未完成 **21** · 已完成 **106** · 已取消 **23**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -21,9 +21,8 @@
 - [ ] [新增订阅转换后端](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（2）
+### 领域：Hziee（1）
 
-- [ ] [数分:1.5A8（3，4），9（3，4），10（135），12（13）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [ACM](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
 ### 领域：dev（6）
@@ -47,6 +46,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [数分:1.5A8（3，4），9（3，4），10（135），12（13）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-28 17:09:40 · Hziee
 - [x] [\*抑制符](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-28 11:03:49 · Hziee
 - [x] [线代:21:4（5）8（2，7）9](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-27 00:13:28 · Hziee
 - [x] [数分：思考题 2，3](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-26 23:55:06 · Hziee
@@ -66,4 +66,3 @@
 - [x] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 11:10:28 · Hziee
 - [x] [注册N站](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 22:00:48 · Happa
 - [x] [trending 热榜推送](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 21:46:46 · dev
-- [x] [数分：看书](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-18 18:04:48 · Hziee

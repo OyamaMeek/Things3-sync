@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **23** · 已完成 **106** · 已取消 **23**
+未完成 **24** · 已完成 **106** · 已取消 **23**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -35,9 +35,10 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（6）
+### 领域：日常（7）
 
 - [ ] [绍兴是个神奇的地方](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
+- [ ] [不干胶](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [感觉有一双无形的大手在抢劫我的生活费 每个月还得定期给o/和a/上供](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [大疆4G模块](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [pixel1](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)

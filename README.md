@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **24** · 已完成 **108** · 已取消 **23**
+未完成 **23** · 已完成 **113** · 已取消 **24**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -9,9 +9,8 @@
 
 ## 未完成任务
 
-### 领域：Happa（9）
+### 领域：Happa（8）
 
-- [ ] [notion反代](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [Komari探针](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [WLOC](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [注册nodeseek挂青龙自动签到](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
@@ -21,9 +20,10 @@
 - [ ] [新增订阅转换后端](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [vless+grcp+cdn](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 
-### 领域：Hziee（2）
+### 领域：Hziee（3）
 
-- [ ] [四级资料打印](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
+- [ ] [数分：2.1A 1（3，4），2，4，18](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
+- [ ] [PythonOJ](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 - [ ] [ACM](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/tasks.md)
 
 ### 领域：dev（6）
@@ -35,10 +35,9 @@
 - [ ] [跑在cfWorker上的webdav](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 - [ ] [微信聊天记录自动备份到notion](Areas/dev-B3ahDYbLpxJcQN9q7Bnrt8/tasks.md)
 
-### 领域：日常（7）
+### 领域：日常（6）
 
 - [ ] [活页纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
-- [ ] [草稿纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [感觉有一双无形的大手在抢劫我的生活费 每个月还得定期给o/和a/上供](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [大疆4G模块](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
 - [ ] [pixel1](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/tasks.md)
@@ -49,6 +48,11 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [html](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-03 23:59:43 · Hziee
+- [x] [草稿纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-03 10:29:53 · 日常
+- [x] [线代:p52:1(1345)2](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-03 10:18:33 · Hziee
+- [x] [notion反代](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-03 00:05:06 · Happa
+- [x] [四级资料打印](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-01 08:57:43 · Hziee
 - [x] [不干胶](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-31 19:40:27 · 日常
 - [x] [绍兴是个神奇的地方](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-31 19:40:27 · 日常
 - [x] [数分:1.5A8（3，4），9（3，4），10（135），12（13）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-28 17:09:40 · Hziee
@@ -64,8 +68,3 @@
 - [x] [reOS](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-22 22:22:28 · 日常
 - [x] [草稿纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-22 22:22:28 · 日常
 - [x] [表达了作者的思乡之情(emm...请假理由是床单拉链坏了回家修一下](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-21 21:40:28 · 日常
-- [x] [数分:习题1.3A 13（单数），14（1，3），15](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-21 18:12:19 · Hziee
-- [x] [线代:P21 4(1,2,3);5(1)](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 23:35:58 · Hziee
-- [x] [数分:1.3A 12（双数）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 14:16:55 · Hziee
-- [x] [数分:1.2A 10（8，9，10）B2（5，6）](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 13:32:52 · Hziee
-- [x] [GitHub学生包](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-19 11:10:28 · Hziee

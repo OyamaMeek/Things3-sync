@@ -1,7 +1,7 @@
 <!-- generated-by: happatools-things3; do not edit -->
 # Things3 任务概览
 
-未完成 **23** · 已完成 **126** · 已取消 **24**
+未完成 **22** · 已完成 **127** · 已取消 **24**
 
 [今天](Today.md) · [即将到来](Upcoming.md) · [收件箱](Inbox.md) · [随时](Anytime.md)
 
@@ -9,9 +9,8 @@
 
 ## 未完成任务
 
-### 领域：Happa（7）
+### 领域：Happa（6）
 
-- [ ] [Komari探针](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [WLOC](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [quanx规则](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
 - [ ] [OVH](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/tasks.md)
@@ -48,6 +47,7 @@
 
 最近完成的 20 项任务，按完成时间从新到旧排列。
 
+- [x] [Komari探针](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-17 12:38:30 · Happa
 - [x] [C语言作业](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-15 23:24:50 · Hziee
 - [x] [delayOTA](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-13 10:04:52 · 日常
 - [x] [餐巾纸](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-13 10:04:52 · 日常
@@ -67,4 +67,3 @@
 - [x] [notion反代](Areas/Happa-TrFqK12QuRP3kDTQS3DMWF/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-03 00:05:06 · Happa
 - [x] [四级资料打印](Areas/Hziee-WMwRGTSeeLSERyfdpvBHcu/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-11-01 08:57:43 · Hziee
 - [x] [不干胶](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-31 19:40:27 · 日常
-- [x] [绍兴是个神奇的地方](Areas/%E6%97%A5%E5%B8%B8-G9UJrWkkanR19c8tvokpza/%E5%B7%B2%E5%AE%8C%E6%88%90.md) · 完成于 2026-10-31 19:40:27 · 日常
